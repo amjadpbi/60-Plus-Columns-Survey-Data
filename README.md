@@ -1,4 +1,4 @@
-# Survey Data Analytics
+# Survey Analytics — Wide-Table Data Modeling
 
 Survey-style data modeling and reporting focused on a wide-table analytical dataset.
 
